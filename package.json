@@ -1,0 +1,16 @@
+{
+    "name": "lab2-js-frameworks",
+    "version": "1.0.0",
+    "description": "Learning about Modules and ES statements",
+    "type": "module",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lab2-js-frameworks": "file:"
+    }
+}
